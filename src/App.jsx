@@ -1,5 +1,5 @@
-import IHereNoInfoPage from './pages/IHereNoInfoPage'
+import HomePage from './pages/HomePage'
 
 export default function App() {
-  return <IHereNoInfoPage />
+  return <HomePage />
 }
